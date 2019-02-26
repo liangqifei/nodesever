@@ -1,6 +1,8 @@
 # 蚂蚁分工版本功能迭代文档
 
-![蚂蚁分工][1]
+<p align="center">
+  <img width="500" src="http://www.lgstatic.com/thumbnail_600x360/i/image2/M00/04/D4/CgotOVnE4XKANwFLAAOVpfKlnVw762.png" alt="蚂蚁分工">
+</p>
 
 ---
 
