@@ -11,6 +11,13 @@
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
     "morgan": "^1.9.1",
-    "pug": "2.0.0-beta11"
+    "multer": "^1.4.1",
+    "mysql": "^2.16.0",
+    "pug": "2.0.0-beta11",
+    "qs": "^6.6.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
   }
 }
